@@ -8,7 +8,6 @@ The folder `STEDActinDendriteFCN`contains a 2-channel network to predict the pre
 
 If you use the provided code, please make sure to properly reference the code using this `bibtex` entry
 ```
-
 @article{lavoie-cardinalNeuronal2020,
   title = {Neuronal Activity Remodels the {{F}}-Actin Based Submembrane Lattice in Dendrites but Not Axons of Hippocampal Neurons},
   author = {{Lavoie-Cardinal}, Flavie and Bilodeau, Anthony and Lemieux, Mado and Gardner, Marc-Andr{\'e} and Wiesner, Theresa and Laram{\'e}e, Gabrielle and Gagn{\'e}, Christian and De Koninck, Paul},
